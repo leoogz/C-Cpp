@@ -7,7 +7,7 @@
 
 using namespace std;
 
-priority_queue<int> pq;
+//priority_queue<int> pq;
 
 int get_gcd(int a, int b);
 int get_lcm(int a, int b);
