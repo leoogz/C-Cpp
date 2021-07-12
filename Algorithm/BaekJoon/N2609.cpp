@@ -30,15 +30,9 @@ int main()
 
 int get_gcd(int a, int b)
 {
-    int mod;
-    mod = 1;
-    while (mod != 0)
-    {
-        mod = a % b;
-        a = b;
-        b = mod;
-    }
-    return a;
+    if (a % b == 0)
+        return b;
+    return get_gcd(b, a % b);
 }
 
 int get_lcm(int a, int b)
