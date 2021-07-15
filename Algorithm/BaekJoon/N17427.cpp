@@ -2,8 +2,6 @@
 
 using namespace std;
 
-int function_f(int x);
-
 int main()
 {
     int N;
