@@ -1,13 +1,5 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <set>
-#include <string>
-#include <cstring>
-#include <vector>
-#include <tuple>
+//각 도시에 있는 주유소의 기름 가격과, 각 도시를 연결하는 도로의 길이를 입력으로 받아 제일 왼쪽 도시에서 제일 오른쪽 도시로 이동하는 최소의 비용을 계산하는 프로그램을 작성하시오.
+#include <bits/stdc++.h>
 
 using namespace std;
 

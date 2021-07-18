@@ -1,11 +1,5 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <set>
-#include <string>
-#include <cstring>
+//M이상 N이하의 소수를 모두 출력하는 프로그램을 작성하시오.
+#include <bits/stdc++.h>
 
 using namespace std;
 

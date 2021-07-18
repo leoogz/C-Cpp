@@ -1,9 +1,6 @@
-#include <stdio.h>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <string>
-#include <cstring>
+//식의 값을 최소로 만들려고 한다.
+//괄호를 적절히 쳐서 이 식의 값을 최소로 만드는 프로그램을 작성하시오.
+#include <bits/stdc++.h>
 
 using namespace std;
 

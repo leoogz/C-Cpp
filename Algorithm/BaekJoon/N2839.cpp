@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <iostream>
-#include <algorithm>
+//배달하는 봉지의 최소 개수를 출력한다. 만약, 정확하게 N킬로그램을 만들 수 없다면 -1을 출력한다.
+#include <bits/stdc++.h>
 
 using namespace std;
 

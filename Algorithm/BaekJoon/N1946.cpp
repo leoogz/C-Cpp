@@ -1,13 +1,5 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <set>
-#include <string>
-#include <cstring>
-#include <vector>
-#include <tuple>
+//선발할 수 있는 신입사원의 최대 인원수를 구하는 프로그램을 작성하시오.
+#include <bits/stdc++.h>
 
 using namespace std;
 

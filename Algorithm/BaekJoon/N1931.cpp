@@ -1,9 +1,5 @@
-#include <stdio.h>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <vector>
-#include <tuple>
+//회의실 배정
+#include <bits/stdc++.h>
 
 using namespace std;
 

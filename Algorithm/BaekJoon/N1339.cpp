@@ -1,14 +1,6 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <set>
-#include <string>
-#include <cstring>
-#include <vector>
-#include <tuple>
-#include <cmath>
+//GCF + ACDEB를 계산한다고 할 때, A = 9, B = 4, C = 8, D = 6, E = 5, F = 3, G = 7로 결정한다면, 두 수의 합은 99437이 되어서 최대가 될 것이다.
+//N개의 단어가 주어졌을 때, 그 수의 합을 최대로 만드는 프로그램을 작성하시오
+#include <bits/stdc++.h>
 
 using namespace std;
 

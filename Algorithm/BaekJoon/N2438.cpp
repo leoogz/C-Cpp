@@ -1,13 +1,5 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <queue>
-#include <set>
-#include <string>
-#include <cstring>
-#include <vector>
-#include <tuple>
+//첫째 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 문제
+#include <bits/stdc++.h>
 
 using namespace std;
 

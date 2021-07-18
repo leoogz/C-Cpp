@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <iostream>
-#include <algorithm>
-#include <queue>
+//잔돈의 개수를 구하는 프로그램을 작성하시오.
+#include <bits/stdc++.h>
 
 using namespace std;
 
